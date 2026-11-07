@@ -58,3 +58,26 @@ Format for each entry:
 - Orvane's trembling hand: magic costs him. Keep consistent in every Orvane scene.
 - Hob's conviction that Bram has "already decided" goes into the bout. Ch 3 and Ch 4 must break it.
 - Dace said the words. He will carry that after Hob dies.
+
+## Ch 03: Never Stay Down (Hob)
+**Summary:** The bout before the village and Orvane. Hob goes down once cleanly; the second time Bram comes forward (new) and breaks Hob's left forearm and hurts his right ribs. Hob sees Bram glance at Orvane's chair and decides Bram is performing for the wizard. Maddoc says "That's enough"; Orvane overrules him twice ("I want to see"). Hob drops to a deliberately low guard, leaving his head open because Bram never strikes the head, lands his first clean blow on Bram in four years, and goes down again. Bram speaks for the first time ever in a bout: "Stay down." Hob refuses. After more falls, Bram stands looking at his own hand, face grey; Hob tastes iron and feels the ground lean toward Bram. Bram's final blow to the right side is not hard. Hob chooses not to block it. His staff splits and something inside his right side goes "the way the ash had gone." He dies on the ground over a minute or two, seeing Maddoc's hand on his chest, hearing his mother, seeing Orvane's face go from interested to arranged kindness, and finally seeing Bram's face up close and realizing he was wrong: Bram never decided anything. Bram says "Hob. Get up." Hob dies holding Bram's wrist.
+
+**New facts:**
+- **Hob is dead.** Cause: internal rupture along the right side from Bram's last blow, with the spark behind it; blood from the lungs. Also a broken left forearm and damaged right ribs from earlier in the bout.
+- The whole village witnessed it, including Hob's mother and father, Jory, Hallam, Dace, Pim, Wat, Ansel, Fenn, and both soldiers.
+- Orvane kept the bout going over Maddoc's two attempts to stop it, in front of everyone. Maddoc came onto the ground and said "I am stopping this"; Orvane refused. This is public.
+- Bram said "Stay down" and "Hob. Stay down" during the bout, and "Hob. Get up." at the end. Hob heard Bram's reading of the phrase inverted at the last.
+- Bram landed a blow to Hob's left forearm and several to the right ribs. Hob landed two clean blows on Bram: right ribs, then an arm. Bram will be bruised.
+- Hob's low-guard tactic (head open) worked because Bram would not strike the head, even offered.
+- The spark's approach as felt from outside, stronger than Ch 1: taste of iron before the blow, aching teeth, high ringing, hair standing on the arms, a sense of the ground leaning toward Bram. Hob's staff split in his hand at the moment of the blow.
+- Orvane's reaction, as Hob saw it: interested first, then deliberately grave and kind.
+- Hob never got to say "I was wrong about you."
+
+**Setups needing payoff:**
+- Ch 4 (Bram) must show the bout from inside: that he did not decide to go on, that he glanced at Orvane for help or permission and not for show, that "stay down" was a plea, and that he does not know how much of the end was him. Hob's reading of every moment was wrong; Bram's chapter cannot simply flip it to "pure accident" either.
+- Orvane publicly overruled Maddoc and a boy died. The village's grief and anger, and how Orvane turns that into Bram leaving, is the engine of Ch 4. Orvane's "arranged" face suggests he is already managing it.
+- Hob's hand on Bram's wrist, and "Get up." Bram carries both.
+- Hob's mother on the ground making a sound. Her relation to Tobin and Bram (bread, the fever) now has to bear this.
+- Maddoc's "I've seen it before" has now happened again in front of him. He failed to stop it.
+- Dace said the words at Marran's. He watched the result.
+- Hob's death happened in front of Fenn and the two soldiers. The older soldier may have a view of Orvane after this.

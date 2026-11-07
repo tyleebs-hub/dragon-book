@@ -18,7 +18,7 @@ Items marked **[suggestion]** came from Claude, not the author's notes. Treat th
 - Has a nascent spark of magic. That spark is why he must go with the wizard even though he resists.
 - **Inner life:** struggles to know what is right and what is true. Overthinks, doubts himself, gets stuck. Outwardly he can look decisive and dangerous (especially through Hob's eyes); inwardly he second-guesses constantly.
 - The wizard wants to teach him that physical prowess and will are not enough. The story partly proves the wizard right and partly wrong.
-- Kills Hob in a bout that goes too long (see Hob). Kills again defending the carriage from bandits. Both mark him.
+- Kills Hob in a bout that goes too long (Ch 3). Said "Stay down" twice during it, the only words he has ever spoken in a bout, and "Hob. Get up." after. Kills again defending the carriage from bandits. Both mark him.
 - Does poorly in his studies at the school.
 - Begins to sympathize with the dragon during the school's hunt.
 - After the bond: speaks telepathically with Vharis only. Other dragons he feels loosely, as energy or pressure, never in words. Draws on Vharis's power.
@@ -36,7 +36,7 @@ Items marked **[suggestion]** came from Claude, not the author's notes. Treat th
 - A boy from Bram's village and training group, 15. We meet Bram only through Hob's eyes at first.
 - Hob lives by the group's phrase, "Never stay down," and hears it as endurance. When the POV shifts to Bram, Bram reads the same phrase differently.
 - Hob wants badly to be chosen by the wizard. Bram does not.
-- Hob dies at Bram's hand in chapter 3, from his own POV.
+- Hob dies at Bram's hand in chapter 3, from his own POV. **Done.** Cause: internal rupture on the right side from a blow that was not hard, with the spark behind it. Died holding Bram's wrist, unable to say "I was wrong about you."
 
 **Decided**
 - The death: Orvane asks to see the boys fight. Hob draws Bram. The bout goes long. Bram could stop and does not, and at the end his spark flares. Neither a clean accident nor a clean choice; Bram can never be sure how much was him. Orvane's eyes are on Bram the whole time.
@@ -50,7 +50,7 @@ Items marked **[suggestion]** came from Claude, not the author's notes. Treat th
 - His magic costs him. After putting out and relighting a hearth fire his right hand trembles; he hides it. Keep this in every scene where he works.
 - Claims to have met four dragons. Was at the Narrows "after" and recognized Maddoc's regiment on sight.
 - Recruits gifted youths to prepare for the coming dragon apocalypse.
-- Arrives at Kell's Ford looking for talent. Asks to see the boys fight; this is the bout in which Hob dies. Watches Bram throughout.
+- Arrives at Kell's Ford looking for talent. Asks to see the boys fight; this is the bout in which Hob dies. Watches Bram throughout. Overruled Maddoc's two attempts to stop the bout, in front of the whole village ("I want to see, Sergeant"). Afterward his face went from interested to deliberately grave. He owns Hob's death as much as anyone, and knows it.
 - Stages a fake bandit ambush to humble Bram. It goes wrong (someone paid the bandits more; who is open).
 - During the ambush he is in a deep magical slumber, communing with fellow wizards and boasting about the boy he personally found.
 - Later confronts Bram at his fortress and criticizes him. Bram counters that he has done more to prepare than anyone.

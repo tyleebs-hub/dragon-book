@@ -44,6 +44,7 @@ Read this before every chapter that touches magic, the bond, or the domain. This
 ## Bram's spark (before the bond)
 - Nascent and untrained. Shows itself when his blood is up, in small wrong things around him rather than anything he aims.
 - Established in prose (Ch 1): a sound ash staff splitting along its grain against a lighter blow; ringing ears and aching teeth in the boy facing him; a taste of struck iron in the air. Maddoc has noticed and said nothing.
+- Established in prose (Ch 3): when his blood is fully up the signs come before the blow, not with it: iron taste, aching teeth, ringing, hair standing on the arms, a sense of the ground leaning toward him. The blow itself need not be hard. It killed Hob by rupturing something along his side "the way the ash had gone," and split Hob's staff at the same moment. Bram was looking at his own hand just before, grey-faced; he did not aim it.
 
 ## Dragons and power
 - Most dragons are lazy and only guard what they have.
