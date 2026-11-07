@@ -22,7 +22,7 @@ This repo is a novel in progress. Read this file at the start of every session.
 
 ## Voice and style
 - POV: third person limited. One POV character per chapter (or per clearly marked section). Rotating POVs: see `bible/characters.md` for who gets one.
-- Each POV character sees the world differently. Bram's chapters should read differently from the queen's or Tam's. Characters can be wrong about each other; that is the point.
+- Each POV character sees the world differently. Bram's chapters should read differently from the queen's or Hob's. Characters can be wrong about each other; that is the point.
 - Tense: past.
 - Tone: grounded, gritty, real. Detailed but never boring: specific physical detail, no inventory lists or travelogue.
 - Magic is limited, costly, and strange. It is often not the best option. Show people solving problems without it.
